@@ -7,10 +7,10 @@ Statistical analysis can be especially helpful when companies are evaluating pro
 
 ## Linear Regression to Predict MPG
 * Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
-*### Hypotheses
-* Null Hypothesis (H0): The slope of the linear model is zero.
-*Alternative Hypothesis (HA): The slope of the linear model is not zero.
-*### Results* 
+### *Hypotheses*
+* *Null Hypothesis (H0): The slope of the linear model is zero.*
+* *Alternative Hypothesis (HA): The slope of the linear model is not zero.*
+### *Results* 
 ![multiple lm](https://user-images.githubusercontent.com/73972332/111208753-66b33880-8588-11eb-94ea-bff3fa815220.png)
 
 ## Summary Statistics on Suspension Coils
