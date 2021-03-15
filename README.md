@@ -46,7 +46,9 @@ Run t-tests to determine if all manufacturing lots and each lot individually are
 * *HA: There’s a statistical difference between the observed sample mean and its presumed population mean.*
 ### *Results*
 #### *Total T Test Summary*
+![t test all](https://user-images.githubusercontent.com/73972332/111227870-7c345c80-85a0-11eb-9406-def6b8f4c8db.png)
 
+Comparing the PSI values from all manufacturing lots to the population mean produces a p-value of 0.06, which does not pass our signficance level of 0.05. Therefore, we do not have enough evidence to reject the null hypothesis. This means that when analyzing PSI values from all manufacturing lots combined, there is not significant variation in the lots compared to the population mean.
 ## Study Design: MechaCar vs Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 ## Summary
