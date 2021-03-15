@@ -62,6 +62,12 @@ Comparing the PSI values from Lot 1 to the population mean produces a p-value of
 
 Comparing the PSI values from Lot 1 to the population mean produces a p-value of .6072, which does not pass our signficance level of 0.05. Therefore, we do not have enough evidence to reject the null hypothesis. This means that when analyzing PSI values from Lot 2, there is not significant variation in the lots compared to the population mean.
 
+#### *Lot 3 T Test Summary*
+
+![lot 3](https://user-images.githubusercontent.com/73972332/111229473-33ca6e00-85a3-11eb-9632-945f55e06554.png)
+
+Comparing the PSI values from Lot 1 to the population mean produces a p-value of .04168, which indeed passes our signficance level of 0.05. Therefore, we have enough evidence to fail to reject the null hypothesis. PSI values from Lot 3 are significantly different from the population mean. This supports our previous findings from the summary table, which revealed that the variance in PSI values from Lot 3 did not meet the design specificaiton for the amount of variance allowed.
+
 ## Study Design: MechaCar vs Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 ## Summary
