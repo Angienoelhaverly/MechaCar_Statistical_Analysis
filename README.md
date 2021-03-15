@@ -87,5 +87,8 @@ To compare vehicle performance of the MechaCar versus its top competitors, Autos
 * *H0: There is no statistifcal difference in the mean Fuel Efficiency and Horsepower between the MechaCar and its competitors.* 
 * *HA: There is a statistical difference in the mean Fuel Efficiency and Horsepower between the MechaCar and its competitors.* 
 ### What statistical test would you use to test the hypothesis? And why?
+* Fuel Efficiency
+* Horsepower
+    * A two-sample T-Test should be used to perform this analysis since the independent variable is dichotomous (MechaCar vs. Competitors) and the dependent variable (horsepower) is continuous.
 ### What data is needed to run the statistical test?
 
