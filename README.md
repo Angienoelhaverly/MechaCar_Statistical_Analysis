@@ -80,10 +80,12 @@ Comparing the PSI values from Lot 1 to the population mean produces a p-value of
 ## Study Design: MechaCar vs Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 ### *What metric or metrics are you going to test?* 
-To compare vehicle performance of the MechaCar versus its top competitors, AutosRUs should look at two main performance measures
-* city or highway fuel efficiency
-* horse power
+To compare vehicle performance of the MechaCar versus its top competitors, AutosRUs should look at two main performance measures: 
+* City and Highway Fuel Efficiency
+* Horsepower
 ### What is the null hypothesis or alternative hypothesis?
+* *H0: There is no statistifcal difference in the mean Fuel Efficiency and Horsepower between the MechaCar and its competitors.* 
+* *HA: There is a statistical difference in the mean Fuel Efficiency and Horsepower between the MechaCar and its competitors.* 
 ### What statistical test would you use to test the hypothesis? And why?
 ### What data is needed to run the statistical test?
 
