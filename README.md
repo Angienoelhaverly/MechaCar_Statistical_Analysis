@@ -27,6 +27,11 @@ The R-Squared value of this model is 0.71, indicating a moderately strong likeli
 
 ## Summary Statistics on Suspension Coils
 * Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+
+![summary stats](https://user-images.githubusercontent.com/73972332/111221559-e4cb0b80-8597-11eb-8926-4b9922874a06.png)
+
+![groupby](https://user-images.githubusercontent.com/73972332/111221626-f7454500-8597-11eb-9aae-e5495a4fe8b1.png)
+
 ## T-Tests on Suspension Coils
 * Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 ## Study Design: MechaCar vs Competition
