@@ -92,4 +92,5 @@ To compare vehicle performance of the MechaCar versus its top competitors, Autos
 * Horsepower
     * A two-sample T-Test should be used to perform this analysis since the independent variable is dichotomous (MechaCar vs. Competitors) and the dependent variable (horsepower) is continuous.
 ### What data is needed to run the statistical test?
+The data that is needed to run the tests will need to be gathered for both competitors and the MechaCar. Data will be needed for two continuous numerical data types. 
 
