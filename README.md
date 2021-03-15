@@ -34,6 +34,9 @@ A summary of the entire dataset shows that the mean PSI of the suspension coils 
 
 ![groupby](https://user-images.githubusercontent.com/73972332/111221626-f7454500-8597-11eb-9aae-e5495a4fe8b1.png)
 
+Looking at each lot individually, we can see that all lots (1-3) produce similar mean PSI values (~1500 PSI), however Lot3 produces extremely high variance (170.28) compared to Lot1 and Lot2 (0.97 and 7.46 respectively).
+Lot1 and Lot2 meet the design specification, but Lot3 does not since the variance produced by this lot exceeds 100.
+
 ## T-Tests on Suspension Coils
 * Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 ## Study Design: MechaCar vs Competition
