@@ -40,7 +40,7 @@ Looking at each lot individually, we can see that all lots (1-3) produce similar
 Lot1 and Lot2 meet the design specification, but Lot3 does not since the variance produced by this lot exceeds 100.
 
 ## T-Tests on Suspension Coils
-* Run t-tests to determine if the manufacturing lots are statistically different from the mean population
+Run t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 ## Study Design: MechaCar vs Competition
-* Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
+Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 ## Summary
