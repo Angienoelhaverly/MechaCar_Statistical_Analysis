@@ -6,7 +6,13 @@ R is a programming that helps with statistical analysis.
 Statistical analysis can be especially helpful when companies are evaluating product design and improvement. In this project, AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
 
 ## Linear Regression to Predict MPG
-* Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+* Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes. The 5 measurements tested are: 
+    * Vehicle Length
+    * Vehicle Weight
+    * Spoiler Angle
+    * Ground Clearance
+    * All Wheel Drive (AWD) or Front Wheel Drive (FWD)
+    
 ### *Hypotheses*
 * *Null Hypothesis (H0): The slope of the linear model is zero.*
 * *Alternative Hypothesis (HA): The slope of the linear model is not zero.*
