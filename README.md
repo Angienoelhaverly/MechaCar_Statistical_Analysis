@@ -56,6 +56,12 @@ Comparing the PSI values from all manufacturing lots to the population mean prod
 
 Comparing the PSI values from Lot 1 to the population mean produces a p-value of 1, which does not pass our signficance level of 0.05. Therefore, we do not have enough evidence to reject the null hypothesis. This means that when analyzing PSI values from Lot 1, there is not significant variation in the lots compared to the population mean.
 
+#### *Lot 2 T Test Summary*
+
+![lot 2](https://user-images.githubusercontent.com/73972332/111229310-ec43e200-85a2-11eb-86c3-218a44526118.png)
+
+Comparing the PSI values from Lot 1 to the population mean produces a p-value of .6072, which does not pass our signficance level of 0.05. Therefore, we do not have enough evidence to reject the null hypothesis. This means that when analyzing PSI values from Lot 2, there is not significant variation in the lots compared to the population mean.
+
 ## Study Design: MechaCar vs Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 ## Summary
