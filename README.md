@@ -41,6 +41,9 @@ Lot1 and Lot2 meet the design specification, but Lot3 does not since the varianc
 
 ## T-Tests on Suspension Coils
 Run t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+### *Hypotheses*
+* *H0: There’s no statistical differences between the observed sample mean and its presumed population mean.*
+* *HA: There’s a statistical difference between the observed sample mean and its presumed population mean.*
 ## Study Design: MechaCar vs Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 ## Summary
