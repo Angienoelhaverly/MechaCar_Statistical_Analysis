@@ -26,11 +26,13 @@ The p-value from this analysis was 5.35e-11, which is much smaller than our sign
 The R-Squared value of this model is 0.71, indicating a moderately strong likelihood (>70% chance) that this model can be used to predict mpg values in the dataset.
 
 ## Summary Statistics on Suspension Coils
-* Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+### *Total Suspension Summary*
 
 ![summary stats](https://user-images.githubusercontent.com/73972332/111221559-e4cb0b80-8597-11eb-8926-4b9922874a06.png)
 
 A summary of the entire dataset shows that the mean PSI of the suspension coils is 1498.78 with a variance of 62.29. Because the variance is less than 100, the manufacturing data meets the design specification for all manufacturing lots in total.
+### *Individual Lot Suspension Summary*
 
 ![groupby](https://user-images.githubusercontent.com/73972332/111221626-f7454500-8597-11eb-9aae-e5495a4fe8b1.png)
 
