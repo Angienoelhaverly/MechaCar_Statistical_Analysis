@@ -70,8 +70,11 @@ Comparing the PSI values from Lot 1 to the population mean produces a p-value of
 
 ### T Test Summary
 ✅ Overall - Meets design specifications
+
 ✅ Lot1 - Meets design specifications
+
 ✅ Lot2 - Meets design specifications
+
 ❌ Lot3 - Does not meet design specifications
 
 ## Study Design: MechaCar vs Competition
