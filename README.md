@@ -44,6 +44,9 @@ Run t-tests to determine if all manufacturing lots and each lot individually are
 ### *Hypotheses*
 * *H0: There’s no statistical differences between the observed sample mean and its presumed population mean.*
 * *HA: There’s a statistical difference between the observed sample mean and its presumed population mean.*
+### *Results*
+#### *Total T Test Summary*
+
 ## Study Design: MechaCar vs Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 ## Summary
